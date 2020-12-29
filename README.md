@@ -11,6 +11,9 @@ Major redesign with the codes to only use Redis as store. Very impressive benchm
 
 ## Changelist
 
+[25 December 2020]
+Lowercase composer name.
+
 [28 November 2018]
 Added redis storage interface, more specific logic for topface....
 

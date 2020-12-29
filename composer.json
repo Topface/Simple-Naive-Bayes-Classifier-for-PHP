@@ -1,5 +1,5 @@
 {
-    "name": "Topface/SimpleBayesClassifier",
+    "name": "topface/simplebayesclassifier",
     "type": "library",
     "description": "Naive Bayes Classifier with Redis backend",
     "keywords": ["bayes","classifier","redis"],
