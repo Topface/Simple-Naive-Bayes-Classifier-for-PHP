@@ -3,7 +3,6 @@
 namespace SimpleBayesClassifier\Classifier\Store;
 
 use Predis\ClientInterface;
-use SimpleBayesClassifier\Classifier;
 use SimpleBayesClassifier\Classifier\NaiveBayesClassifierException;
 
 /**
